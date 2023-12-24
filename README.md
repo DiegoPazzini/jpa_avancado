@@ -36,7 +36,7 @@ Instruções para Execução:
 
 Configure um banco de dados compatível com JPA (por exemplo, MySQL, PostgreSQL) e ajuste as configurações de persistência no arquivo persistence.xml.
 
-Execute os testes unitários presentes em com.pazzini.test para verificar o funcionamento da aplicação.
+Execute os testes unitários presentes em com.pazzini.test para verificar o funcionamento dessa aplicação.
 
 ## Skills utilizadas:
 <div style="display: inline_block"><br>
